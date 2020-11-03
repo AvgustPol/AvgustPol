@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 
 # C#: 
 
-LINQ
+LINQ - one love <3 
 
-Main frameworks: 
+## Main frameworks: 
 - .NET CORE 
 - .NET STANDARD
 - .NET FRAMEWORK
 
-Database:
-- EF Core 
-- Entity Framework 
-
-Priorities in which I create libraries & frameworks:
 1) .NET STANDARD - reusable on all platforms, even windows 
 2) .NET CORE - because it's cross platform and future of .NET 
 3) .NET FRAMEWORK
+
+## Database:
+- EF Core - second love <3 
+- Entity Framework 
+
+
