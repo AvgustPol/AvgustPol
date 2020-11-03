@@ -34,3 +34,14 @@ LINQ - one love <3
 - Entity Framework 
 
 
+
+
+
+
+
+# Gists 
+I have a lot of useful code snippets on github gist. Maybe you will find something interesting for you ;)
+Welcome : 
+https://gist.github.com/AvgustPol
+
+
