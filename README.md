@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anton Vlasiuk https://github.com/AvgustPol/AvgustPol/blob/main/images/github%20anton%20vlasiuk.jpg?raw=true)
+![Anton Vlasiuk](https://github.com/AvgustPol/AvgustPol/blob/main/images/github%20anton%20vlasiuk.jpg?raw=true)
 
 Here are some ideas to get you started:
 
