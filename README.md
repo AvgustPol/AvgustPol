@@ -1,19 +1,7 @@
 ### Hi there 👋
+## My name is Anton and I love to create value for people 
 
-![Anton Vlasiuk](https://github.com/AvgustPol/AvgustPol/blob/main/images/github%20anton%20vlasiuk.jpg?raw=true)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+![Anton Vlasiuk](https://github.com/AvgustPol/AvgustPol/blob/main/images/anton%20vlasiuk.jpg?raw=true)
 
 
 # C#: 
@@ -32,9 +20,6 @@ LINQ - one love <3
 ## Database:
 - EF Core - second love <3 
 - Entity Framework 
-
-
-
 
 
 
