@@ -19,3 +19,4 @@ https://gist.github.com/AvgustPol
 
 - [C# WebClient cheatsheet GET/POST](https://gist.github.com/AvgustPol/8e14a07862ae5d804b8b7a10398c681d)
 - [Powershell error handling](https://gist.github.com/AvgustPol/294a11703860c08ab2c5fdcb5d8718b0)
+- [JavaScript useful stuff](https://gist.github.com/AvgustPol/aa26dcc4043f2090a8bd8c31fb5ed623)_
