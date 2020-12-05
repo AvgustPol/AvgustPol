@@ -1,10 +1,12 @@
-### 23 y.o. .NeRD developer 👋
+### 23 y.o. .NeRD developer 👋 
 ## My name is Anton and I love to create value for people 
+### 🇺🇸 , 🇵🇱 , 🇷🇺 , 🇺🇦 
 
 - .NET CORE
 - React 
 - Typescript 
 - DevOps magic 
+
 
 ![Anton Vlasiuk](https://github.com/AvgustPol/AvgustPol/blob/main/images/anton%20vlasiuk.jpg?raw=true)
 
