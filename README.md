@@ -1,7 +1,9 @@
 ### 23 y.o. .NeRD developer 👋 
 ## My name is Anton and I love to create value for people 
-### 🇺🇸 , 🇵🇱 , 🇷🇺 , 🇺🇦 
 
+Speaking: 🇺🇸 , 🇵🇱 , 🇷🇺 , 🇺🇦 
+
+Creating: 
 - .NET CORE
 - React 
 - Typescript 
